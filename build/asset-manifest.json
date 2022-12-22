@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0aa7aad.chunk.css",
+    "main.js": "/static/js/main.f159cae1.chunk.js",
+    "main.js.map": "/static/js/main.f159cae1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8263309a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8263309a.js.map",
+    "static/js/2.6aa70a5a.chunk.js": "/static/js/2.6aa70a5a.chunk.js",
+    "static/js/2.6aa70a5a.chunk.js.map": "/static/js/2.6aa70a5a.chunk.js.map",
+    "static/js/3.073c8c58.chunk.js": "/static/js/3.073c8c58.chunk.js",
+    "static/js/3.073c8c58.chunk.js.map": "/static/js/3.073c8c58.chunk.js.map",
+    "static/js/4.cb4f30dc.chunk.js": "/static/js/4.cb4f30dc.chunk.js",
+    "static/js/4.cb4f30dc.chunk.js.map": "/static/js/4.cb4f30dc.chunk.js.map",
+    "static/js/5.46a8517e.chunk.js": "/static/js/5.46a8517e.chunk.js",
+    "static/js/5.46a8517e.chunk.js.map": "/static/js/5.46a8517e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e0aa7aad.chunk.css.map": "/static/css/main.e0aa7aad.chunk.css.map",
+    "static/js/2.6aa70a5a.chunk.js.LICENSE.txt": "/static/js/2.6aa70a5a.chunk.js.LICENSE.txt",
+    "static/media/AboutImg.695c8199.png": "/static/media/AboutImg.695c8199.png",
+    "static/media/Logo.13a24a42.png": "/static/media/Logo.13a24a42.png",
+    "static/media/Rarity01.8cb429ee.png": "/static/media/Rarity01.8cb429ee.png",
+    "static/media/Rarity02.df88ccc3.png": "/static/media/Rarity02.df88ccc3.png",
+    "static/media/Rarity03.3c323bf6.png": "/static/media/Rarity03.3c323bf6.png",
+    "static/media/Rarity04.2a3d2056.png": "/static/media/Rarity04.2a3d2056.png",
+    "static/media/Rarity05.e012f7f3.png": "/static/media/Rarity05.e012f7f3.png",
+    "static/media/Rarity06.4909bf62.png": "/static/media/Rarity06.4909bf62.png",
+    "static/media/Rarity07.13534d94.png": "/static/media/Rarity07.13534d94.png",
+    "static/media/Rarity08.46c742f3.png": "/static/media/Rarity08.46c742f3.png",
+    "static/media/Rarity09.fdc58767.png": "/static/media/Rarity09.fdc58767.png",
+    "static/media/Rarity10.8a616490.png": "/static/media/Rarity10.8a616490.png",
+    "static/media/Rarity11.0060f067.png": "/static/media/Rarity11.0060f067.png",
+    "static/media/Team1.f0b1298c.png": "/static/media/Team1.f0b1298c.png",
+    "static/media/Team2.6fa5af41.png": "/static/media/Team2.6fa5af41.png",
+    "static/media/Rarity.css": "/static/media/nextArr.ffe7d3b5.svg",
+    "static/media/text.3654e6ca.png": "/static/media/text.3654e6ca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8263309a.js",
+    "static/js/2.6aa70a5a.chunk.js",
+    "static/css/main.e0aa7aad.chunk.css",
+    "static/js/main.f159cae1.chunk.js"
+  ]
+}
